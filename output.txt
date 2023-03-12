@@ -1,9 +1,10 @@
 
 Here, we observed how to handle http handle requests by using database
 
-we used REST API'S to test the functionality using postman tool
+*we created REST API'S using spring boot, JDBC and SQL
+Tested RESTful API'S functionality using postman tool
 
-GET, GET SPECIFIC ID, POST, PUT AND DELETE methods are used those all are handled by controller class and 
+*GET, GET SPECIFIC TODO, POST, PUT AND DELETE methods are used those all are handled by controller class and 
 In servic class we have written a business logic, 
 model class we add the specific details about the todo.
 
